@@ -1,6 +1,6 @@
 {
   "name": "extract-frustum-planes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Extracts the planes for a WebGL viewing frustum",
   "main": "extract-planes.js",
   "directories": {
